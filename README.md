@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to pota 👋</h1>
 
+```! Under development```
+
 > Free products in Switzerland
 
 ### 🏠 [Homepage](https://pota.filippofinke.ch)

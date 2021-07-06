@@ -1,0 +1,27 @@
+.header {
+	margin: auto;
+	width: 80%;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+}
+
+.header .brand {
+	display: flex;
+	align-items: center;
+}
+
+.header .logo {
+	max-width: 50px;
+	max-height: 50px;
+}
+
+.header .title {
+	margin-left: 5px;
+	display: inline;
+	color: #2a5323;
+}
+
+.header .actions {
+	margin-left: auto;
+}

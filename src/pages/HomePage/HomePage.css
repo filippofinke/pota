@@ -1,0 +1,39 @@
+.home-page .container {
+	max-width: 80%;
+	margin: auto;
+	margin-top: 25px;
+}
+
+h3 {
+	color: #2a5323;
+}
+
+.categories {
+	width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+	display: flex;
+	justify-content: space-between;
+}
+
+.categories .skeleton {
+	min-width: 170px;
+	min-height: 125px;
+}
+
+.classified-ads {
+	width: 100%;
+	overflow: auto;
+	white-space: nowrap;
+	display: flex;
+	justify-content: space-between;
+}
+
+.classified-ads .skeleton {
+	min-width: 200px;
+	min-height: 150px;
+}
+
+.center {
+	text-align: center;
+}

@@ -1,0 +1,42 @@
+button {
+	border-radius: 10px;
+	border: none;
+	padding: 10px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button .icon {
+	vertical-align: middle;
+	border-radius: 5px;
+	margin-right: 7px;
+}
+
+button span {
+	vertical-align: middle;
+}
+
+button.primary {
+	color: #2a5323;
+	background-color: #a4ff79;
+}
+
+button.primary .icon {
+	background-color: #57da40;
+	color: #2a5323;
+}
+
+button.secondary {
+	color: #2a5323;
+	background-color: #e1ffd2;
+}
+
+button.secondary .icon {
+	background-color: #b9f29d;
+	color: #2a5323;
+}
+
+button:hover,
+button:hover .icon {
+	color: #3e7a34;
+}

@@ -4,7 +4,7 @@
 
 > Free products in Switzerland
 
-### 🏠 [Homepage](https://pota.filippofinke.ch)
+### 🏠 [Homepage](https://pota.vercel.app/)
 
 <p align="center">
   <img src="demo/home.jpeg" alt="HomePage" width="400px" align="center">
